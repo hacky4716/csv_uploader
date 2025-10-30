@@ -16,5 +16,3 @@ It processes and inserts thousands of records into a PostgreSQL database in batc
 
 ---
 
-## Folder Structure
-
